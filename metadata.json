@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse: Election Assistant",
+  "description": "An interactive assistant helping users navigate the election process, timelines, and voter readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
